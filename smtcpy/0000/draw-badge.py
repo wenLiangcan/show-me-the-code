@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-import sys
-
 from PIL import Image, ImageDraw, ImageFont
 
 TTF = 'Ubuntu-L'
